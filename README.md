@@ -35,3 +35,15 @@ Future Enhancements:
   Backtesting and stress testing module
 
   Visualization of loss distributions
+
+
+---------
+Use Cases
+-------
+  Portfolio Risk Management
+  
+  Quantitative Strategy Evaluation
+  
+  Trading Risk Limits
+  
+  Regulatory Risk Reporting (Basel III, SEBI)
