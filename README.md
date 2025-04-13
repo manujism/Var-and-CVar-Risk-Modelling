@@ -21,5 +21,17 @@ CVaR Formula:
 ------
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/9e3e6b7b-288d-42f1-a8ca-cda843b74756" />
 
-
 ------------
+
+
+
+---------
+Future Enhancements:
+----
+  Monte Carlo Simulation-based VaR/CVaR
+
+  Multi-asset portfolio VaR with correlation matrices
+
+  Backtesting and stress testing module
+
+  Visualization of loss distributions
