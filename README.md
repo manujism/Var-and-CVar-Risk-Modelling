@@ -15,6 +15,7 @@ VaR only tells you how bad things could get up to a threshold. CVaR tells you ho
 VaR Formula:
 ----
 Mathematically:
+
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/d179613b-066b-4475-810c-cff2864fb8e6" />
 
 
@@ -22,6 +23,7 @@ Mathematically:
 CVaR Formula:
 ------
 Mathematically:
+
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/2227b44c-9f56-4061-9dea-b3751f904b6a" />
 
 
