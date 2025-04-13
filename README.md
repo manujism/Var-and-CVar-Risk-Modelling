@@ -10,3 +10,16 @@ CVaR (also called Expected Shortfall) is the expected loss given that the loss i
 
 VaR only tells you how bad things could get up to a threshold. CVaR tells you how bad it actually gets beyond that threshold—so it captures tail risk better.
 
+-------
+
+VaR Formula:
+----
+<img width="444" alt="image" src="https://github.com/user-attachments/assets/a8ed6117-e578-437f-8146-a6a859304a26" />
+
+
+CVaR Formula:
+------
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/9e3e6b7b-288d-42f1-a8ca-cda843b74756" />
+
+
+------------
