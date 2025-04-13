@@ -41,6 +41,3 @@ Use Cases
   
   Quantitative Strategy Evaluation
   
-  Trading Risk Limits
-  
-  Regulatory Risk Reporting (Basel III, SEBI)
